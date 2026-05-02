@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='800' viewBox='0 0 1200 800'>
+<defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='#f6f1e6'/><stop offset='1' stop-color='#ece3cf'/></linearGradient></defs>
+<rect width='1200' height='800' fill='url(#g)'/>
+<rect x='230' y='280' width='740' height='350' rx='18' fill='#fff'/>
+<polygon points='200,300 600,120 1000,300' fill='#d2b071'/>
+<rect x='530' y='430' width='140' height='200' fill='#c4a165'/>
+<rect x='300' y='360' width='150' height='120' fill='#e8eef5'/>
+<rect x='750' y='360' width='150' height='120' fill='#e8eef5'/>
+<text x='600' y='730' text-anchor='middle' font-size='46' font-family='Arial' fill='#6f5a2e'>Listing Photo Placeholder</text>
+</svg>
